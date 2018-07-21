@@ -15,9 +15,8 @@ public class MostFrequentlyOccuringItem {
 		for (int i = 0; i < arr.length; i++) {
 			arr[i] = scan.nextInt();
 		}
-		mostFrequentlyOccuringItem(arr);
+		mostFrequentlyOccuringItem(arr);	
 	}
-
 	private static void mostFrequentlyOccuringItem(int[] arr) {
 		// TODO Auto-generated method stub
 		Map<Integer, Integer> map = new HashMap<Integer, Integer>();
