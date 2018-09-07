@@ -16,7 +16,7 @@ public class NoOfDigits {
 		int result3 = findingNoOfDigitsByLog(num);
 		System.out.println("Number of digits are : ");
 		// System.out.println(Integer.toString(result2));
-		// System.out.println(Integer.toString(result));
+		// System.out.println(result);
 		System.out.println(Integer.toString(result3));
 
 	}
